@@ -2,7 +2,7 @@
 
 <div align = "center">
    <h2> 🚀 I'm A " Front-End " Developer </h2>
-    <h2> 👨‍💻 Computer " science student " of Bahoner University of Kerman </h2>
+   <h2> 👨‍💻 Computer " science student " of Bahoner University of Kerman </h2>
 </div>
 <div align = "center">
 <a href="https://github.com/hzabbas"><img src = "line.gif" /></a>
@@ -35,7 +35,7 @@
 </div>
 
 
-<h3>Connect With Me <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/eyes_1f440.gif" width="20"/></h3>
+<h3 align = "center">Connect With Me <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/eyes_1f440.gif" width="20"/></h3>
 <div align="center">
 <a href="https://github.com/hzabbas">
 <img src="https://skillicons.dev/icons?i=github" />
