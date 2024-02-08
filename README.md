@@ -2,7 +2,7 @@
 
 <div align = "center">
    <h2> 🚀 I'm A " Front-End " Developer </h2>
-   <h2> 👨‍💻 Computer " science student " of Bahoner University of Kerman </h2>
+   <h2> 👨‍💻 " Computer science " student of Bahoner University of Kerman </h2>
 </div>
 <div align = "center">
 <a href="https://github.com/hzabbas"><img src = "line.gif" /></a>
