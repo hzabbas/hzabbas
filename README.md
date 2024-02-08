@@ -1,4 +1,4 @@
-![img](abbas_github.gif)
+<img src = "abbas_github.gif"/>
 
 <div align = "center">
    <h2> 🚀 I'm A " Front-End " Developer </h2>
