@@ -14,7 +14,7 @@
 </div>
 
 <br />
-<h1 align = "center">- My<img src = "Arrow.gif" width = "35px" />Skill -<h1/>
+<h1 align = "center">My<img src = "Arrow.gif" width = "35px" />Skill<h1/>
 
 <div align = "center">
     <p align = "center">
@@ -26,7 +26,7 @@
 
 
 
-<h3 align = "center">- Github Stats -</h3>
+<h3 align = "center">* Github Stats *</h3>
 <div align="center">
   <a href="https://github.com/hzabbas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzabbas&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed" /></a>
 <br />
